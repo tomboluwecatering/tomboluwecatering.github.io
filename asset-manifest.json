@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/static/css/main.b6de8af4.css",
-    "main.js": "/static/js/main.c154f5f6.js",
+    "main.js": "/static/js/main.de71055c.js",
     "static/media/sidenav.jpg": "/static/media/sidenav.06c63fc68ba2bb3c97ab.jpg",
     "static/media/slide1.jpeg": "/static/media/slide1.65582aa2dc2444834314.jpeg",
     "static/media/slide2.jpeg": "/static/media/slide2.511277356561366d7582.jpeg",
@@ -9,10 +9,10 @@
     "static/media/tomboluwe.jpg": "/static/media/tomboluwe.e5ee7f0890ab27cce10d.jpg",
     "index.html": "/index.html",
     "main.b6de8af4.css.map": "/static/css/main.b6de8af4.css.map",
-    "main.c154f5f6.js.map": "/static/js/main.c154f5f6.js.map"
+    "main.de71055c.js.map": "/static/js/main.de71055c.js.map"
   },
   "entrypoints": [
     "static/css/main.b6de8af4.css",
-    "static/js/main.c154f5f6.js"
+    "static/js/main.de71055c.js"
   ]
 }
